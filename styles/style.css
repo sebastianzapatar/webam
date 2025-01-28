@@ -1,9 +1,14 @@
+*{
+    margin: 0 auto;
+    width: 70%;
+}
 /*
 Selector tipo
 1
 */
 h1{
     color: aquamarine;
+    
 }
 /*
 Selector de clase
@@ -24,6 +29,7 @@ Selector id
 .barritalateral{
     background-color: cornflowerblue;
     border: 1px dotted red;
+    padding: 10px;/*1rem 16px*/
     margin-bottom: 10px;
     margin-top: 7px;
     /*
