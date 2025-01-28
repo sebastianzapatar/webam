@@ -1,0 +1,31 @@
+/*
+Selector tipo
+1
+*/
+h1{
+    color: aquamarine;
+}
+/*
+Selector de clase
+10
+*/
+.nombre{
+    color:brown;
+}
+/*
+Selector id
+100
+*/
+#articleid{
+    background-color: #008cff;
+}
+.barritalateral{
+    background-color: cornflowerblue;
+}
+.barritalateral h2{
+    color: bisque;
+    font-family: "Noto Sans JP", serif;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: center;
+}
